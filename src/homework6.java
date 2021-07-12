@@ -46,7 +46,7 @@ public class homework6 {
         }
         else
         {
-            System.out.println("The date is: " + year + month + day);
+            System.out.println("The date is: " + year + "/" + month + "/" + day);
         }
 
     }
