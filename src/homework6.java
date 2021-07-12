@@ -11,7 +11,7 @@ public class homework6 {
             System.out.println("Time is not input correctly, please input correct time!");
         }
 
-        // Condition A (with added rule that time can't be not be negative)
+        // Condition A (with added rule that time can't be negative)
         if ((time < 12) && (time > 0)) {
             System.out.println("Good Morning Sunshine!");
         }
